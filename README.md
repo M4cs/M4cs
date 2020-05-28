@@ -1,4 +1,4 @@
-✨ Welcome to My Github!
+:octocat: Welcome to My Github!
 
 ## Who Am I?
 
@@ -23,7 +23,20 @@ Allows you to display system information through your command line without needi
 
 <a href="https://pepy.tech/project/foxify-cli"><img src="https://pepy.tech/badge/foxify-cli"></a> <a href="https://github.com/M4cs/foxify-cli/stargazers"><img src="https://img.shields.io/github/stars/M4cs/foxify-cli"></a>
 
-As of Firefox 57 (the Quantum Update), Mozilla has enabled custom user customization using userChrome.css. This file is found in the chrome folder of your profile and allows you to customize the look of your browser. There is a huge community around this sort of themeing and it can get easy to mess up your theme or lose it when you install a new theme. With Foxify you have the ability to manage your themes for Firefox and apply them dynamically!
+As of Firefox 57 (the Quantum Update), Mozilla has enabled custom user customization using userChrome.css. With Foxify you have the ability to manage your themes for Firefox and apply them dynamically!
+
+**:brain: EasyModels - AI Dataset and Model Indexer**
+
+<a href="https://pepy.tech/project/easymodels" target="_blank"><img src="https://pepy.tech/badge/easymodels" /> <a href="https://github.com/M4cs/EasyModels/stargazers"><img src="https://img.shields.io/github/stars/M4cs/EasyModels.svg" atl="Stars"></a>
+  
+EasyModels is an easy way to find and view deep learning projects and pre-trained models.
+
+**:framed_picture: Pixcryption - Cryptographically secure image ciphering algorithm**
+
+![Stars](https://img.shields.io/github/stars/M4cs/pixcryption)
+
+Pixcryption's goal is to offer a new form of steganography/encryption through imagery. It uses a random seeded UUID to generate a user_key which matches RGB perfect values to match to unicode characters. Uses AES OCB encryption.
+
 
 ## My Links
 
