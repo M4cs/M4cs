@@ -24,3 +24,9 @@ Allows you to display system information through your command line without needi
 <a href="https://pepy.tech/project/foxify-cli"><img src="https://pepy.tech/badge/foxify-cli"></a> <a href="https://github.com/M4cs/foxify-cli/stargazers"><img src="https://img.shields.io/github/stars/M4cs/foxify-cli"></a>
 
 As of Firefox 57 (the Quantum Update), Mozilla has enabled custom user customization using userChrome.css. This file is found in the chrome folder of your profile and allows you to customize the look of your browser. There is a huge community around this sort of themeing and it can get easy to mess up your theme or lose it when you install a new theme. With Foxify you have the ability to manage your themes for Firefox and apply them dynamically!
+
+## My Links
+
+[Visit My Website](https://maxbridgland.com)
+
+[Follow Me On Twitter](https://twitter.com/maxbridgland)
