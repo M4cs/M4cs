@@ -6,7 +6,7 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 
 ## What have I created?
 
-:baby: **Babysploit - Penetration Testing Framework for Beginners **
+**:baby: Babysploit - Penetration Testing Framework for Beginners**
 
 <a href="https://pepy.tech/project/babysploit"><img src="https://pepy.tech/badge/babysploit"></a> <a href="https://github.com/M4cs/BabySploit/stargazers"><img src="https://img.shields.io/github/stars/M4cs/BabySploit.svg" atl="Stars"></a>
 
