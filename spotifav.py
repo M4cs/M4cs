@@ -1,6 +1,7 @@
 import pylast, json, requests, glob
 from lastfmcache import LastfmCache
 from PIL import Image
+import os
 
 def crop_center(pil_img, crop_width, crop_height):
     img_width, img_height = pil_img.size
@@ -61,3 +62,5 @@ template = template + " |\n"
 readme = open("READMECOPY.md", "r").read()
 with open("README.md", "w") as f:
     f.write(readme.format(template=template))
+
+os.system("git add . && git commit -m \"Update Artists\" && git push")
