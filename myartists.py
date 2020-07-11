@@ -30,13 +30,13 @@ artist_dict = {}
 
 for a in artists:
     artist = cache.get_artist(a.item.name)
-    artist_dict.update({ a.item.name : artist.cover_image })
+    artist_dict.update({ a.item.name : { 'image': artist.cover_image, 'plays': artist.play_count } })
 
 for k, v in artist_dict.items():
-    res = requests.get(v).content
-    with open("artist_images\\" + v.split('/')[-1], "wb") as f:
+    res = requests.get(v['image']).content
+    with open("artist_images\\" + v['image'].split('/')[-1], "wb") as f:
         f.write(res)
-    artist_dict[k] = "artist_images\\" + v.split('/')[-1]
+    artist_dict[k]['image'] = "artist_images\\" + v['image'].split('/')[-1]
 
 new_height, new_width = (250, 250)
 for a in glob.glob("artist_images\\*.jpg"):
@@ -51,12 +51,14 @@ template = """\
 
 """
 
-for image in artist_dict.values():
-    template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
+for a in artist_dict.values():
+    template = template + "| <img src=" + url_temp + a['image'].replace('\\', '/') + "> "
 template = template + " |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n"
 for artist in artist_dict.keys():
     template = template + "| " + "<b>" + artist + "</b> "
 template = template + " |\n"
+for p in artist_dict.values():
+    template = template + "| <b> Played " + str(p['plays']) + "Times" + "</b>"
 
 
 readme = open("READMECOPY.md", "r").read()
