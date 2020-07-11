@@ -7,7 +7,7 @@ Welcome to My Github!
 | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/30b386be3832ff63ffa1d8d182480c6b.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/31ab24b4359852319e67c63b60764771.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2096fd0f405e5254a24589361e51b5db.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/d874e5f8b505faa385c7eab1ca4778ff.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/dee231e40268c3615851a139b4f59164.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/484b2cf89033a0bc19aadc107330a2c1.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <b>POP SMOKE</b> | <b>A Boogie wit da Hoodie</b> | <b>88GLAM</b> | <b>Whiney</b> | <b>Sheff G</b> | <b>22Gz</b>  |
-| <b> Played 5236420Times</b>| <b> Played 8220715Times</b>| <b> Played 1447759Times</b>| <b> Played 162450Times</b>| <b> Played 307167Times</b>| <b> Played 200577Times</b>
+
 
 ## About Me
 
