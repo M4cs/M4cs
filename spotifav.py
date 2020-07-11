@@ -52,10 +52,10 @@ template = """\
 
 for image in artist_dict.values():
     template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "/> "
-template = template + " |\n| --- | --- | --- | --- | --- | --- | --- |\n"
+template = template + " |\n| --- | --- | --- | --- | --- | --- |\n"
 for artist in artist_dict.keys():
     template = template + "| " + "<b>" + artist + "</b> "
-template = template + "\n"
+template = template + " |\n"
 
 
 readme = open("READMECOPY.md", "r").read()
