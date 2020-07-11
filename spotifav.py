@@ -51,7 +51,7 @@ template = """\
 """
 
 for image in artist_dict.values():
-    template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "/> "
+    template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
 template = template + " |\n| --- | --- | --- | --- | --- | --- |\n"
 for artist in artist_dict.keys():
     template = template + "| " + "<b>" + artist + "</b> "
