@@ -15,7 +15,7 @@ This is a small script I made to pull from my last.fm/spotify and display what s
 
 # Running
 
-Put the `myartists.py` file inside of your Username repo on GitHub.
+Put the [`myartists.py`](https://github.com/M4cs/M4cs/blob/master/myartists.py) file inside of your Username repo on GitHub.
 
 Create a copy of your README somewhere in the repo. Put `{template}` into wherever you want your Spotify info.
 
