@@ -22,7 +22,7 @@ cache.enable_file_cache()
 
 
 try:
-    artists = network.get_authenticated_user().get_top_artists(limit=5, period=pylast.PERIOD_7DAYS)
+    artists = network.get_authenticated_user().get_top_artists(limit=6, period=pylast.PERIOD_7DAYS)
 except Exception as e:
     print(e)
 
@@ -32,19 +32,13 @@ for a in artists:
     artist = cache.get_artist(a.item.name)
     artist_dict.update({ a.item.name : artist.cover_image })
 
-to_remove = []
-
 for k, v in artist_dict.items():
-    if v:
-        res = requests.get(v).content
-        with open("artist_images\\" + v.split('/')[-1], "wb") as f:
-            f.write(res)
-        artist_dict[k] = "artist_images\\" + v.split('/')[-1]
-    else:
-        to_remove.append(k)
-
-for k in to_remove:
-    artist_dict.pop(k)
+    if not v:
+        v = "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    res = requests.get(v).content
+    with open("artist_images\\" + v.split('/')[-1], "wb") as f:
+        f.write(res)
+    artist_dict[k] = "artist_images\\" + v.split('/')[-1]
 
 new_height, new_width = (250, 250)
 for a in glob.glob("artist_images\\*.jpg"):
@@ -61,7 +55,7 @@ template = """\
 
 for image in artist_dict.values():
     template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
-template = template + " |\n| :---: | :---: | :---: | :---: | :---: |\n"
+template = template + " |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n"
 for artist in artist_dict.keys():
     template = template + "| " + "<b>" + artist + "</b> "
 template = template + " |\n"
