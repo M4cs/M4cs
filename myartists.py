@@ -32,11 +32,19 @@ for a in artists:
     artist = cache.get_artist(a.item.name)
     artist_dict.update({ a.item.name : artist.cover_image })
 
+to_remove = []
+
 for k, v in artist_dict.items():
-    res = requests.get(v).content
-    with open("artist_images\\" + v.split('/')[-1], "wb") as f:
-        f.write(res)
-    artist_dict[k] = "artist_images\\" + v.split('/')[-1]
+    if v:
+        res = requests.get(v).content
+        with open("artist_images\\" + v.split('/')[-1], "wb") as f:
+            f.write(res)
+        artist_dict[k] = "artist_images\\" + v.split('/')[-1]
+    else:
+        to_remove.append(k)
+
+for k in to_remove:
+    artist_dict.pop(k)
 
 new_height, new_width = (250, 250)
 for a in glob.glob("artist_images\\*.jpg"):
