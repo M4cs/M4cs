@@ -22,7 +22,7 @@ cache.enable_file_cache()
 
 
 try:
-    artists = network.get_authenticated_user().get_top_artists(limit=6, period=pylast.PERIOD_7DAYS)
+    artists = network.get_authenticated_user().get_top_artists(limit=5, period=pylast.PERIOD_7DAYS)
 except Exception as e:
     print(e)
 
@@ -61,7 +61,7 @@ template = """\
 
 for image in artist_dict.values():
     template = template + "| <img src=" + url_temp + image.replace('\\', '/') + "> "
-template = template + " |\n| :---: | :---: | :---: | :---: | :---: | :---: |\n"
+template = template + " |\n| :---: | :---: | :---: | :---: | :---: |\n"
 for artist in artist_dict.keys():
     template = template + "| " + "<b>" + artist + "</b> "
 template = template + " |\n"
