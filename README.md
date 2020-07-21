@@ -21,6 +21,7 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <b>POP SMOKE</b> | <b>The Weeknd</b> | <b>Whiney</b> | <b>AJ Tracey</b> | <b>Document One</b> | <b>88GLAM</b>  |
 
+**See how to do this [Here](https://github.com/M4cs/M4cs/blob/master/myartists.md)**
 
 ## My Projects
 
