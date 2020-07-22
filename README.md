@@ -1,21 +1,19 @@
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
-Welcome to My Github!
-
-## About Me
+## About Me :wave:
 
 Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
-**Feeling Generous? Help Support Me**
+:moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
 <a href="https://github.com/sponsors/M4cs" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
 
-## Find Me Elsewhere
+## Find Me Elsewhere :computer:
 
 <a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter"></a>
 
-## Who I've Been Listening To This Week
+## Who I've Been Listening To This Week :musical_note:
 
 | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/30b386be3832ff63ffa1d8d182480c6b.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/43bbd58d53d1ad1a3ec66e5a98870894.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f7558806b92d124c7d8034c9811bff63.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2096fd0f405e5254a24589361e51b5db.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/c32ecc356aa75403c0bfe98941ce68c0.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8cbc12b40bdc4eb95113f19f29409e85.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -24,7 +22,7 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 
 **See how to do this [Here](https://github.com/M4cs/M4cs/blob/master/myartists.md)**
 
-## My Projects
+## My Projects :pencil:
 
 **:baby: Babysploit - Penetration Testing Framework for Beginners**
 
