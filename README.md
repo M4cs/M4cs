@@ -17,8 +17,6 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 
 ## Who I've Been Listening To This Week
 
-## Who I've Been Listening To This Week
-
 | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/30b386be3832ff63ffa1d8d182480c6b.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/43bbd58d53d1ad1a3ec66e5a98870894.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f7558806b92d124c7d8034c9811bff63.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2096fd0f405e5254a24589361e51b5db.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/c32ecc356aa75403c0bfe98941ce68c0.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8cbc12b40bdc4eb95113f19f29409e85.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <b>POP SMOKE</b> | <b>The Weeknd</b> | <b>AJ Tracey</b> | <b>88GLAM</b> | <b>Ron SUNO</b> | <b>Swae Lee</b>  |
