@@ -13,6 +13,8 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 
 <a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter"></a>
 
+<a align="center"><img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&showIcons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4cs&theme=prussian&showIcons=true"></a>
+
 ## Who I've Been Listening To This Week :musical_note:
 
 | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/30b386be3832ff63ffa1d8d182480c6b.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/43bbd58d53d1ad1a3ec66e5a98870894.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f7558806b92d124c7d8034c9811bff63.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2096fd0f405e5254a24589361e51b5db.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/c32ecc356aa75403c0bfe98941ce68c0.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8cbc12b40bdc4eb95113f19f29409e85.jpg>  |
