@@ -15,7 +15,7 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&showIcons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4cs&theme=prussian&showIcons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4cs&theme=prussian&showIcons=true&hide=c,makefile">
 </p>
 
 ## Who I've Been Listening To This Week :musical_note:
