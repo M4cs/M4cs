@@ -1,25 +1,27 @@
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
-Welcome to My Github!
-
-## About Me
+## About Me :wave:
 
 Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
-**Feeling Generous? Help Support Me**
+:moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
 <a href="https://github.com/sponsors/M4cs" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
 
-## Find Me Elsewhere
+## Find Me Elsewhere :computer:
 
 <a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter"></a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true">
+</p>
 
 {template}
 
 **See how to do this [Here](https://github.com/M4cs/M4cs/blob/master/myartists.md)**
 
-## My Projects
+## My Projects :pencil:
 
 **:baby: Babysploit - Penetration Testing Framework for Beginners**
 

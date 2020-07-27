@@ -17,11 +17,11 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
   <img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true">
 </p>
 
-## Who I've Been Listening To This Week :musical_note:
+## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/30b386be3832ff63ffa1d8d182480c6b.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/43bbd58d53d1ad1a3ec66e5a98870894.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f7558806b92d124c7d8034c9811bff63.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2096fd0f405e5254a24589361e51b5db.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/c32ecc356aa75403c0bfe98941ce68c0.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8cbc12b40bdc4eb95113f19f29409e85.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/31ab24b4359852319e67c63b60764771.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/30b386be3832ff63ffa1d8d182480c6b.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f7558806b92d124c7d8034c9811bff63.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/cc8fbc44a32442a79b277cf1fe46fafc.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/09ee5eba83c479fa25206a1a0892ab84.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/18dd11fdd3d940b4903912be77ebf6cf.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>POP SMOKE</b> | <b>The Weeknd</b> | <b>AJ Tracey</b> | <b>88GLAM</b> | <b>Ron SUNO</b> | <b>Swae Lee</b>  |
+| <b>A Boogie wit da Hoodie</b> | <b>POP SMOKE</b> | <b>AJ Tracey</b> | <b>Document One</b> | <b>Shoreline Mafia</b> | <b>Sub Focus</b>  |
 
 
 **See how to do this [Here](https://github.com/M4cs/M4cs/blob/master/myartists.md)**
