@@ -19,9 +19,9 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/31ab24b4359852319e67c63b60764771.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/30b386be3832ff63ffa1d8d182480c6b.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f7558806b92d124c7d8034c9811bff63.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/cc8fbc44a32442a79b277cf1fe46fafc.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/09ee5eba83c479fa25206a1a0892ab84.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/18dd11fdd3d940b4903912be77ebf6cf.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/31ab24b4359852319e67c63b60764771.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/30b386be3832ff63ffa1d8d182480c6b.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/cc8fbc44a32442a79b277cf1fe46fafc.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2096fd0f405e5254a24589361e51b5db.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f7558806b92d124c7d8034c9811bff63.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/d7bbdae79997413f8852d2081334605e.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>A Boogie wit da Hoodie</b> | <b>POP SMOKE</b> | <b>AJ Tracey</b> | <b>Document One</b> | <b>Shoreline Mafia</b> | <b>Sub Focus</b>  |
+| <b>A Boogie wit da Hoodie</b> | <b>POP SMOKE</b> | <b>Document One</b> | <b>88GLAM</b> | <b>AJ Tracey</b> | <b>Mobb Deep</b>  |
 
 
 **See how to do this [Here](https://github.com/M4cs/M4cs/blob/master/myartists.md)**
