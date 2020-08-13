@@ -4,9 +4,6 @@
 
 Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
-<p align="center">
-  <br><img src="https://badges.pufler.dev/visits/M4cs/M4cs"><br><b>I Have<br><img src="https://badges.pufler.dev/repos/M4cs"><br>Been Here For</b><br><img src="https://badges.pufler.dev/years/M4cs"></p>
-
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
 <a href="https://github.com/sponsors/M4cs" target="_blank">
