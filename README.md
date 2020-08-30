@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
+Join Others and Sign My Profile!
 <a href="https://smp.maxbridgland.com/sign/34947910"><img src="https://smp.maxbridgland.com/card/34947910"></a>
 
 ## About Me :wave:
