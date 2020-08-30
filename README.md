@@ -2,7 +2,7 @@
 
 Join Others and Sign My Profile!
 
-<a href="https://smp.maxbridgland.com/sign/34947910"><img src="https://smp.maxbridgland.com/card/34947910"></a>
+![https://smp.maxbridgland.com/card/34947910](https://smp.maxbridgland.com/sign/34947910)
 
 ## About Me :wave:
 
