@@ -1,5 +1,11 @@
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
+Join Others and Sign My Profile!
+
+
+[![](https://smp.maxbridgland.com/badge?target=34947910)](https://smp.maxbridgland.com/sign/34947910)
+
+
 ## About Me :wave:
 
 Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
