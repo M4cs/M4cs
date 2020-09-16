@@ -28,6 +28,10 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 
 ## Who I've Been Listening To This Week
 
+<p align="center">
+  <img src="https://e2d0baf9e1e1.ngrok.io">
+</p>
+
 | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2eb7c27e82d508727370577dc86cb2ba.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/08d5e55594a26939ac04a91667a0006c.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/0e94aceeb12b2b7abcc3bc4f2234cddd.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/cb067447f51c1abcff6f6a7160837c0a.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8e8c34f7230bf7b59cd6c6ef10d59cbd.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/1a9da029e1881e491be6b60ce93e108d.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <b>Roddy Ricch</b> | <b>Lil Tecca</b> | <b>SLEEPY HALLOW</b> | <b>Logic</b> | <b>Cousin Stizz</b> | <b>Drake</b>  |
