@@ -26,6 +26,12 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
   <img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true">
 </p>
 
+## [GitHub Now Playing](https://github.com/M4cs/github-np)
+
+<p align="center">
+  <img src="https://ghnp.maxbridgland.com">
+</p>
+
 {template}
 
 **See how to do this [Here](https://github.com/M4cs/M4cs/blob/master/myartists.md)**
