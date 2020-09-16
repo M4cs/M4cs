@@ -27,7 +27,7 @@ Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](ht
 </p>
 
 <p align="center">
-  <img height="600" width="300" src="https://ghnp.maxbridgland.com">
+  <img src="https://ghnp.maxbridgland.com">
 </p>
 
 ## Who I've Been Listening To This Week
