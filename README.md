@@ -6,7 +6,7 @@
 
 ## About Me :wave:
 <a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+Hey! I'm Max, a 20-year-old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
@@ -49,7 +49,7 @@ EasyModels is an easy way to find and view deep learning projects and pre-traine
 
 ![Stars](https://img.shields.io/github/stars/M4cs/pixcryption)
 
-Pixcryption's goal is to offer a new form of steganography/encryption through imagery. It uses a random seeded UUID to generate a user_key which matches RGB perfect values to match to unicode characters. Uses AES OCB encryption.
+Pixcryption's goal is to offer a new form of steganography/encryption through imagery. It uses a random seeded UUID to generate a user_key which matches RGB perfect values to match to Unicode characters. Uses AES OCB encryption.
 
 ## Who I've Been Listening To This Week
 
@@ -62,4 +62,4 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 **[Github-NP](https://github.com/M4cs/github-np)** - Github Now Playing, Display Spotify Now Playing in GitHub Readmes!
 
-**[myartists](https://github.com/M4cs/M4cs/blob/master/myartists.md)** - Display top listened to artists this week
+**[my artists](https://github.com/M4cs/M4cs/blob/master/myartists.md)** - Display top listened to artists this week
