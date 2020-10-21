@@ -3,6 +3,7 @@
 <!-- OctoCats -->
 
 
+[**Nominate Me for GitHub Stars!**](https://nominate.github.com)
 
 ## About Me :wave:
 <a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
@@ -53,9 +54,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/422a0856c0e58cf6875ebdd0db317fc8.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/7025d41841b4cc0ad3a3c772bc253a68.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/6b1207bc724b52598b7d87a9a16f3796.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2eb7c27e82d508727370577dc86cb2ba.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/1a9d9bc0d7e0886069e1c19d1c983e57.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/944dc442c937b75626bdbd0066212502.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/7025d41841b4cc0ad3a3c772bc253a68.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/422a0856c0e58cf6875ebdd0db317fc8.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/c60bcb1eb7d35b6a672ba986a8e39109.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/131bfca34603ef273b4510398ff9bba7.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/08d5e55594a26939ac04a91667a0006c.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8a2271b72b6af3934041da456015d408.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Trippie Redd</b> | <b>Lil Tjay</b> | <b>$uicideboy$</b> | <b>Roddy Ricch</b> | <b>Drake</b> | <b>The Weeknd</b>  |
+| <b>Lil Tjay</b> | <b>Trippie Redd</b> | <b>Roddy Ricch</b> | <b>Fivio Foreign</b> | <b>Lil Tecca</b> | <b>Frosty</b>  |
 
 
 ## Readme Projects:
