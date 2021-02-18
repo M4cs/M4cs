@@ -53,9 +53,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8351a0ef88240ffc5d575dedd932e0d6.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/4ed976c65bb34de89cb92b051e330612.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/cf5a6f5438261e0c564fab55dc67d3f5.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f59b329ed6a27eeed43b479ef3b8d266.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f9f939e8ae2dbac6849b02e6c7bb0f89.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/e70b54a9d7e19f8d27844c2ae39d6550.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8351a0ef88240ffc5d575dedd932e0d6.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f9f939e8ae2dbac6849b02e6c7bb0f89.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/3b13e7ad00d9e11fc3dc38931358a5e8.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/74e2cfa4bd275c38f68e7c35787dad76.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/a96699071d4a014972780dfeb319c680.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Deko</b> | <b>Nujabes</b> | <b>Yung Gravy</b> | <b>J.I the Prince of N.Y</b> | <b>Yameii Online</b> | <b>Brandy</b>  |
+| <b>Deko</b> | <b>Yameii Online</b> | <b>Trippie Redd</b> | <b>Lil Tjay</b> | <b>Merge!</b> | <b>Arctic Monkeys</b>  |
 
 
 ## Readme Projects:
