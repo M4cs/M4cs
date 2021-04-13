@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 <!-- OctoCats -->
 
@@ -53,9 +53,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8351a0ef88240ffc5d575dedd932e0d6.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/f9f939e8ae2dbac6849b02e6c7bb0f89.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/3b13e7ad00d9e11fc3dc38931358a5e8.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/74e2cfa4bd275c38f68e7c35787dad76.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/a96699071d4a014972780dfeb319c680.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/e29f7ffb0bf3221af3eaaa86c5d5162a.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8351a0ef88240ffc5d575dedd932e0d6.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/626d1946d69480a785806b4c367e0303.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/df8d8e2295625bd2097f0553186898f7.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/624a7b359345f1e5e95c86174c8f2580.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Deko</b> | <b>Yameii Online</b> | <b>Trippie Redd</b> | <b>Lil Tjay</b> | <b>Merge!</b> | <b>Arctic Monkeys</b>  |
+| <b>Jack Harlow</b> | <b>Deko</b> | <b>Yameii Online</b> | <b>Lil Tjay</b> | <b>$uicideboy$</b> | <b>Merge!</b>  |
 
 
 ## Readme Projects:
