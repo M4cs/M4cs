@@ -6,7 +6,7 @@
 
 ## About Me :wave:
 <a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+Hey! I'm Max, a 21 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
@@ -53,9 +53,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/304587494c2a6243c74188aecf931891.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8351a0ef88240ffc5d575dedd932e0d6.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/776dfdc4e16d1e8501f2c5622fcd040d.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8b732492fdfbc0f6083d7ff39f607a50.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/9edfae9149d3aede36f29b6b2b9d06c5.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/d852c9ab130fabe7789c408c5e7fd93a.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8b732492fdfbc0f6083d7ff39f607a50.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/776dfdc4e16d1e8501f2c5622fcd040d.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/blank-profile-picture-973460_960_720.png> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/b3050a3a6fd6e9b4206dc6ccef87a055.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/65e2036983e4ce15c3170d87568a0074.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/blank-profile-picture-973460_960_720.png>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>The Strokes</b> | <b>Deko</b> | <b>Jack Harlow</b> | <b>$uicideboy$</b> | <b>Pixies</b> | <b>Yameii Online</b>  |
+| <b>$uicideboy$</b> | <b>Jack Harlow</b> | <b>Jacko</b> | <b>Bones</b> | <b>A$AP Rocky</b> | <b>SCYTHERMANE</b>  |
 
 
 ## Readme Projects:
