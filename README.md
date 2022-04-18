@@ -53,9 +53,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/867cc4cdddf4381341f0f7dad4969e3c.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/62878a9f36c93b1ad055b69aa8d80f56.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/602168987da8401c98839d214315b318.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/b2e51603b47e4281930f077934688e81.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/57100a724b4d0a6986ed4ca41054d788.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/02eac5fac2a44e3fb88aca9e252ba12a.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/867cc4cdddf4381341f0f7dad4969e3c.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/62878a9f36c93b1ad055b69aa8d80f56.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/602168987da8401c98839d214315b318.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/cc484f39d461bf40aea43cf0f3c27458.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/7d42f1a052ef4523965a51a5c4985491.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/26243d3d38d279572c9ae4cab5dd4552.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Yeat</b> | <b>Lucky Twice</b> | <b>Sublime</b> | <b>The Smashing Pumpkins</b> | <b>Thouxanbanfauni</b> | <b>Weezer</b>  |
+| <b>Yeat</b> | <b>Lucky Twice</b> | <b>Sublime</b> | <b>Pixies</b> | <b>Joy Division</b> | <b>Metallica</b>  |
 
 
 ## Readme Projects:
