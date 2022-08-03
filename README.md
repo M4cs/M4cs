@@ -11,8 +11,6 @@ Hey! I'm Max, a 21 year old software developer and QA engineer for [@Reggora](ht
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
 <a href="https://github.com/sponsors/M4cs" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
-<img src="https://badges.pufler.dev/visits/M4cs/M4cs">
-<img src="https://badges.pufler.dev/years/M4cs">
 
 ## My Projects :pencil:
 <a href=""><img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true" align="right"></a>
@@ -53,9 +51,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/867cc4cdddf4381341f0f7dad4969e3c.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/62878a9f36c93b1ad055b69aa8d80f56.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/602168987da8401c98839d214315b318.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/cc484f39d461bf40aea43cf0f3c27458.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/7d42f1a052ef4523965a51a5c4985491.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/26243d3d38d279572c9ae4cab5dd4552.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/54a381a197d6c5001ad8a110bf50e0e0.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/d4030e62f2bf13fe4a0c2e4320ee38c1.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/0e8860af4f4c2d2b35c1342f9c9fc537.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/6a0fd17cf048afe070b0068f4a53f8ef.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/5e9c718f900aa2895b6eece97ee680d3.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/0a9932aa8641a0b4c7a44392beba5e60.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Yeat</b> | <b>Lucky Twice</b> | <b>Sublime</b> | <b>Pixies</b> | <b>Joy Division</b> | <b>Metallica</b>  |
+| <b>Yeat</b> | <b>vierre cloud</b> | <b>Yot Club</b> | <b>Wallows</b> | <b>Cafuné</b> | <b>Peach Pit</b>  |
 
 
 ## Readme Projects:

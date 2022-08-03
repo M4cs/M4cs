@@ -11,8 +11,6 @@ Hey! I'm Max, a 21 year old software developer and QA engineer for [@Reggora](ht
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
 <a href="https://github.com/sponsors/M4cs" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
-<img src="https://badges.pufler.dev/visits/M4cs/M4cs">
-<img src="https://badges.pufler.dev/years/M4cs">
 
 ## My Projects :pencil:
 <a href=""><img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true" align="right"></a>
