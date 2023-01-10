@@ -6,7 +6,7 @@
 
 ## About Me :wave:
 <a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Max, a 22 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+Hey! I'm Max, a 22 year old Software Engineer [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
@@ -51,9 +51,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/d63baf8f876ec8a511dd7ded154ddc87.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/615113e14ecedfa2999ea3dd8a7a9105.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/57100a724b4d0a6986ed4ca41054d788.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/dd2b01910c7b710f60e65030d23a3bad.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8b732492fdfbc0f6083d7ff39f607a50.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/fb43acf841bbfe54b98adcb40ff62c1f.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/ec116389f8c887234e091d893aa67250.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/3a89bfd1527680ea44252fa9bb70fd4a.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8c7ec4d25b7008b55e6684a7e4671809.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/bca8843625e0ce43371e887fa8799145.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/e95cb4b8c3db7807ea31782c9b0d1b50.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/b4c8e29c7336c0e663f6769843c83491.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Piri</b> | <b>Kankan</b> | <b>Thouxanbanfauni</b> | <b>Tony Shhnow</b> | <b>$uicideboy$</b> | <b>BabyTron</b>  |
+| <b>Macabre Plaza</b> | <b>Piri</b> | <b>Steve Lacy</b> | <b>The Weeknd</b> | <b>Enjoy</b> | <b>Mac DeMarco</b>  |
 
 
 ## Readme Projects:
