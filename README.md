@@ -6,14 +6,14 @@
 
 ## About Me :wave:
 <a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Max, a 22 year old Software Engineer [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+Software Engineer and CTO working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
 <a href="https://github.com/sponsors/M4cs" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
 
 ## My Projects :pencil:
-<a href=""><img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true" align="right"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=M4cs&theme=github_dark_dimmed&show_icons=true&count_private=true" align="right"></a>
 
 ### :baby: Babysploit - Penetration Testing Framework for Beginners
 
@@ -51,9 +51,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/ec116389f8c887234e091d893aa67250.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/3a89bfd1527680ea44252fa9bb70fd4a.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8c7ec4d25b7008b55e6684a7e4671809.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/bca8843625e0ce43371e887fa8799145.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/e95cb4b8c3db7807ea31782c9b0d1b50.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/b4c8e29c7336c0e663f6769843c83491.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/a84dfb67b76056668da68a7503e43946.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/0d87a149e2b8df1ef9e655023dcc4bc9.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/5bf47a441606dcdef41d9f01ce2cac17.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/1f4c460012472d10c3a4ddab91a39aeb.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/4f0bd54ea09ad623f3f53b6db559f417.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/ed9ef14de680cd8bc4be79cfe6709a93.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Macabre Plaza</b> | <b>Piri</b> | <b>Steve Lacy</b> | <b>The Weeknd</b> | <b>Enjoy</b> | <b>Mac DeMarco</b>  |
+| <b>Deftones</b> | <b>Pierce the Veil</b> | <b>Title Fight</b> | <b>Fleshwater</b> | <b>GLARE</b> | <b>Narrow Head</b>  |
 
 
 ## Readme Projects:

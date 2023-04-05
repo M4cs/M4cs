@@ -6,14 +6,14 @@
 
 ## About Me :wave:
 <a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Max, a 22 year old Software Engineer [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+Software Engineer and CTO working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
 <a href="https://github.com/sponsors/M4cs" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
 
 ## My Projects :pencil:
-<a href=""><img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true" align="right"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=M4cs&theme=github_dark_dimmed&show_icons=true&count_private=true" align="right"></a>
 
 ### :baby: Babysploit - Penetration Testing Framework for Beginners
 
