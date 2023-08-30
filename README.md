@@ -51,9 +51,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/621cf2800065b0d5c0fa574b2380a4b0.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/928c0aaa3b2bcb0dd69aed35a862f104.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/93e7507e732722275768269b6c579a46.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/e9a95e9defdb4f16b29131a8d0e2d6a9.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/b110907fc343e922b58431e284b61dec.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/d1f15c52e685dc5142d69589f9af3934.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/43c042e8e8c3294aa13b95081ff82e20.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/c2428255383f4cc7525b661c4fdf6d48.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/401ac5eb5f3b01724dc52cb633016986.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/ddc0e9cfa24ce262b80fc56097df6471.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/4a8ed35fcc107bb362545392bc2fa223.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2ca5a5f85ff9f42102d836e29bee9a39.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Pierce the Veil</b> | <b>Del Water Gap</b> | <b>Drake</b> | <b>My Chemical Romance</b> | <b>All Time Low</b> | <b>Paramore</b>  |
+| <b>Travi$ Scott</b> | <b>Deftones</b> | <b>Hail The Sun</b> | <b>Del Water Gap</b> | <b>Pierce the Veil</b> | <b>Dance Gavin Dance</b>  |
 
 
 ## Readme Projects:
