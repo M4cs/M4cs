@@ -44,6 +44,7 @@ new_height, new_width = (250, 250)
 for a in glob.glob("artist_images\\*.jpg"):
     im = Image.open(a)
     im_thumb = crop_max_square(im).resize((500, 500), Image.LANCZOS)
+    im_thumb = im_thumb.convert("RGB")
     im_thumb.save(a)
 
 url_temp = "https://raw.githubusercontent.com/M4cs/M4cs/master/"
