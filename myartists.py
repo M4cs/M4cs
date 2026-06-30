@@ -32,17 +32,33 @@ for a in artists:
     artist = cache.get_artist(a.item.name)
     artist_dict.update({ a.item.name : artist.cover_image })
 
+FALLBACK_URL = "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+
+os.makedirs("artist_images", exist_ok=True)
+
 for k, v in artist_dict.items():
     if not v:
-        v = "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
-    res = requests.get(v).content
-    with open("artist_images\\" + v.split('/')[-1], "wb") as f:
-        f.write(res)
-    artist_dict[k] = "artist_images\\" + v.split('/')[-1]
+        v = FALLBACK_URL
+
+    resp = requests.get(v)
+    # If the image fetch failed or didn't return image data, fall back.
+    if resp.status_code != 200 or not resp.headers.get("Content-Type", "").startswith("image/"):
+        resp = requests.get(FALLBACK_URL)
+
+    path = os.path.join("artist_images", v.split('/')[-1])
+    with open(path, "wb") as f:
+        f.write(resp.content)
+    artist_dict[k] = path
 
 new_height, new_width = (250, 250)
-for a in glob.glob("artist_images\\*.jpg"):
-    im = Image.open(a)
+for a in list(artist_dict.values()):
+    try:
+        im = Image.open(a)
+        im.verify()          # confirm it's a valid image before processing
+        im = Image.open(a)   # reopen: verify() leaves the file unusable
+    except (Image.UnidentifiedImageError, OSError) as e:
+        print(f"Skipping invalid image {a}: {e}")
+        continue
     im_thumb = crop_max_square(im).resize((500, 500), Image.LANCZOS)
     im_thumb = im_thumb.convert("RGB")
     im_thumb.save(a)
