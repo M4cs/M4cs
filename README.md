@@ -51,9 +51,9 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 ## Who I've Been Listening To This Week
 
-| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/3cc14709a880d6cfd4f7dcff0285e070.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/6d8a06b3e8c3b754f24e5bc0a87a2258.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/662a8d7cad6ce4b8a20a0dd675deff48.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/77de1334404ac94f8d3dac26a2150471.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/3bbb1a886aac5801856e11242185a07d.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/00624234485c417d0e0ad1c72d73a5e7.jpg>  |
+| <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/smokedope2016.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/mike-sherm.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/shoreline-mafia.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/fontaines-d-c.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/lucky-twice.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/fakemink.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Rio Da Yung OG</b> | <b>smokedope2016</b> | <b>Bad Bunny</b> | <b>Joeyy</b> | <b>Fontaines D.C.</b> | <b>Kettama</b>  |
+| <b>smokedope2016</b> | <b>Mike Sherm</b> | <b>Shoreline Mafia</b> | <b>Fontaines D.C.</b> | <b>Lucky Twice</b> | <b>fakemink</b>  |
 
 
 ## Readme Projects:
